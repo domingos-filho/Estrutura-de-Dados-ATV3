@@ -52,7 +52,7 @@ public class Program {
 		System.out.println(fila);
 		System.out.println("--------------------------------------------");
 		
-		System.out.println("Adicionando os numeros 6,7,8,9,10 na lista");
+		System.out.println("Adicionando os numeros 6, 7, 8, 9, 10 na lista");
 			lista.add(6);
 			lista.add(7);
 			lista.add(8);
